@@ -1,2 +1,2 @@
 # budidarmulyana.github.io
-[a link](https://budidarmulyana.github.io)
+[budidarmulyana.github.io](https://budidarmulyana.github.io)
